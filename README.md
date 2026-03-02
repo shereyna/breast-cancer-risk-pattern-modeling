@@ -5,7 +5,7 @@ Author: Shereyna Shinbo
 Purdue University | Fall 2025 
 
 ## Project Overview
-This project evaluates the predictive performance of Logistic Regression and Random Forest models in identifying short-term breast cancer outcomes using screening data from the Breast Cancer Surveillance Consortium (BCSC). The objective is to classify whether a cancer diagnosis occurs within one year of a screening mammogram.
+This project evaluates the predictive performance of Logistic Regression and Random Forest models in identifying short-term breast cancer outcomes using screening data from the [Breast Cancer Surveillance Consortium (BCSC)](https://www.bcsc-research.org/). The objective is to classify whether a cancer diagnosis occurs within one year of a screening mammogram.
 
 The dataset consists of approximately 20,000 digital and 20,000 film mammography examinations collected between 2005 and 2008. All predictors are derived from radiologist assessments and patient characteristics recorded at the time of screening; no imaging files are included.
 
@@ -99,7 +99,7 @@ The minimal performance gap suggests limited nonlinear structure in the dataset.
 
 ## Full Report
 The complete written analysis, including figures, statistical outputs, and interpretation, is available in PDF format: 
-[View Full Report](report/GRAD50800_Final Report.pdf)
+[View Full Report](report/GRAD50800_Final%20Report.pdf)
 
 ## Repository Structure
 
