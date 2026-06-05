@@ -1,7 +1,6 @@
 # Breast Cancer Outcome Prediction Using Machine Learning Models on BCSC Mammography Data
 
 **GRAD 50800 Final Project Report**  
-Author: Shereyna Shinbo
 Purdue University | Fall 2025 
 
 ## Project Overview
